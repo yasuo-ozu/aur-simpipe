@@ -1,0 +1,3 @@
+#!/bin/bash
+
+SimPipe /usr/share/SimPipe/SimMips/test/qsort

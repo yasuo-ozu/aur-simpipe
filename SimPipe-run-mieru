@@ -1,0 +1,4 @@
+#!/bin/bash
+
+SimPipe -M /usr/share/SimPipe/SimMips/test/mem_mieru.txt /usr/share/SimPipe/SimMips/test/tokei
+

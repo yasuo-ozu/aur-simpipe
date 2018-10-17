@@ -1,0 +1,3 @@
+#!/bin/bash
+
+SimPipe -M /usr/share/SimPipe/SimMips/test/mem_qemu.txt /usr/share/SimPipe/SimMips/test/vmlinux-2.6.18-3-qemu
